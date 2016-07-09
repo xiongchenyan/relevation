@@ -81,12 +81,20 @@
                       Unjudged
                     </label><br>
                     <label class="radio">
+                        <input type="radio" name="relevance" id="relevance4" value="4" {% if judgement.relevance == 2 %} checked {% endif %}>
+                        exact right
+                    </label><br>
+                    <label class="radio">
+                        <input type="radio" name="relevance" id="relevance3" value="3" {% if judgement.relevance == 2 %} checked {% endif %}>
+                        relevant
+                    </label><br>
+                    <label class="radio">
                      <input type="radio" name="relevance" id="relevance2" value="2" {% if judgement.relevance == 2 %} checked {% endif %}>
-                      Highly relevant
+                        somehow relevant
                     </label><br>
                     <label class="radio">
                       <input type="radio" name="relevance" id="relevance1" value="1" {% if judgement.relevance == 1 %} checked {% endif %}>
-                      Somewhat relevant
+                      Related
                     </label><br>
                     <label class="radio">
                       <input type="radio" name="relevance" id="relevance0" value="0" {% if judgement.relevance == 0 %} checked {% endif %}>
