@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b61ea85-5c77-4dc1-9ab1-87683f6ff714" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/judgementapp/models.py" afterPath="$PROJECT_DIR$/judgementapp/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/judgementapp/templates/judgementapp/document.html" afterPath="$PROJECT_DIR$/judgementapp/templates/judgementapp/document.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/relevation.db" afterPath="$PROJECT_DIR$/db/relevation.db" />
     </list>
     <ignored path="relevation.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,8 +38,8 @@
       <file leaf-file-name="document.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/judgementapp/templates/judgementapp/document.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="719">
-              <caret line="85" column="32" selection-start-line="85" selection-start-column="32" selection-end-line="85" selection-end-column="32" />
+            <state relative-caret-position="527">
+              <caret line="77" column="43" selection-start-line="77" selection-start-column="43" selection-end-line="77" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -517,7 +516,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-620" y="-1440" width="2560" height="1440" extended-state="6" />
+    <frame x="-620" y="-1440" width="2560" height="1440" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -585,8 +584,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/judgementapp/templates/judgementapp/document.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="719">
-          <caret line="85" column="32" selection-start-line="85" selection-start-column="32" selection-end-line="85" selection-end-column="32" />
+        <state relative-caret-position="527">
+          <caret line="77" column="43" selection-start-line="77" selection-start-column="43" selection-end-line="77" selection-end-column="43" />
           <folding />
         </state>
       </provider>
