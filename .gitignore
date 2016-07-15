@@ -5,6 +5,7 @@ local_settings.py
 prefix.sh
 publish.sh
 relevation.db
+.idea/workspace.xml
 
 demovideo/relevation_demo.mov
 
